@@ -1,4 +1,4 @@
 <?php
-echo "Startig the skill";
+echo "Starting the skill";
 echo "Adding a new code";
 ?>
